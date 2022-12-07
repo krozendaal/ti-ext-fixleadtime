@@ -1,4 +1,6 @@
-<?php namespace Thoughtco\ChooseTime;
+<?php 
+
+namespace Brandlogic\FixLeadTime;
 
 use Event;
 use Igniter\Flame\Exception\ApplicationException;
