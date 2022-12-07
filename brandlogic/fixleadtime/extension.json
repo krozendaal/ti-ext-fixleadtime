@@ -1,0 +1,13 @@
+{
+  "code": "brandlogic.fixleadtime",
+  "name": "Fix leadtime",
+  "description": "Fix leadtime not being added when ASAP deliver/pickup is turned off",
+  "version": "v1.0.0",
+  "author": "krozendaal",
+  "icon": {
+    "class": "fa fa-clock",
+    "backgroundColor": "#00169",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/krozendaal/ti-ext-fixleadtime"
+}
